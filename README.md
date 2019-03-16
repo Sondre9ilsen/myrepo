@@ -1,5 +1,3 @@
 # myrepo
-testing my setup
-This is a brilliant line from Rstudio test
-hvorfor funker det ikke??
-
+her er ett nytt navn til myrepo
+vi prøver med enda en ny linje og skriver noe mer tull
